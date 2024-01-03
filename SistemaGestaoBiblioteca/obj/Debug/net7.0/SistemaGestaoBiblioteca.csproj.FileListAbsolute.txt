@@ -1,0 +1,28 @@
+C:\Users\Windows 7\Desktop\Projetos C#\SistemaGestaoBiblioteca\SistemaGestaoBiblioteca\bin\Debug\net7.0\SistemaGestaoBiblioteca.exe
+C:\Users\Windows 7\Desktop\Projetos C#\SistemaGestaoBiblioteca\SistemaGestaoBiblioteca\bin\Debug\net7.0\SistemaGestaoBiblioteca.deps.json
+C:\Users\Windows 7\Desktop\Projetos C#\SistemaGestaoBiblioteca\SistemaGestaoBiblioteca\bin\Debug\net7.0\SistemaGestaoBiblioteca.runtimeconfig.json
+C:\Users\Windows 7\Desktop\Projetos C#\SistemaGestaoBiblioteca\SistemaGestaoBiblioteca\bin\Debug\net7.0\SistemaGestaoBiblioteca.dll
+C:\Users\Windows 7\Desktop\Projetos C#\SistemaGestaoBiblioteca\SistemaGestaoBiblioteca\bin\Debug\net7.0\SistemaGestaoBiblioteca.pdb
+C:\Users\Windows 7\Desktop\Projetos C#\SistemaGestaoBiblioteca\SistemaGestaoBiblioteca\obj\Debug\net7.0\SistemaGestaoBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 7\Desktop\Projetos C#\SistemaGestaoBiblioteca\SistemaGestaoBiblioteca\obj\Debug\net7.0\SistemaGestaoBiblioteca.AssemblyInfoInputs.cache
+C:\Users\Windows 7\Desktop\Projetos C#\SistemaGestaoBiblioteca\SistemaGestaoBiblioteca\obj\Debug\net7.0\SistemaGestaoBiblioteca.AssemblyInfo.cs
+C:\Users\Windows 7\Desktop\Projetos C#\SistemaGestaoBiblioteca\SistemaGestaoBiblioteca\obj\Debug\net7.0\SistemaGestaoBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Windows 7\Desktop\Projetos C#\SistemaGestaoBiblioteca\SistemaGestaoBiblioteca\obj\Debug\net7.0\SistemaGestaoBiblioteca.dll
+C:\Users\Windows 7\Desktop\Projetos C#\SistemaGestaoBiblioteca\SistemaGestaoBiblioteca\obj\Debug\net7.0\refint\SistemaGestaoBiblioteca.dll
+C:\Users\Windows 7\Desktop\Projetos C#\SistemaGestaoBiblioteca\SistemaGestaoBiblioteca\obj\Debug\net7.0\SistemaGestaoBiblioteca.pdb
+C:\Users\Windows 7\Desktop\Projetos C#\SistemaGestaoBiblioteca\SistemaGestaoBiblioteca\obj\Debug\net7.0\SistemaGestaoBiblioteca.genruntimeconfig.cache
+C:\Users\Windows 7\Desktop\Projetos C#\SistemaGestaoBiblioteca\SistemaGestaoBiblioteca\obj\Debug\net7.0\ref\SistemaGestaoBiblioteca.dll
+C:\Users\Windows 7\Desktop\C#\SistemaGestaoBiblioteca\SistemaGestaoBiblioteca\bin\Debug\net7.0\SistemaGestaoBiblioteca.exe
+C:\Users\Windows 7\Desktop\C#\SistemaGestaoBiblioteca\SistemaGestaoBiblioteca\bin\Debug\net7.0\SistemaGestaoBiblioteca.deps.json
+C:\Users\Windows 7\Desktop\C#\SistemaGestaoBiblioteca\SistemaGestaoBiblioteca\bin\Debug\net7.0\SistemaGestaoBiblioteca.runtimeconfig.json
+C:\Users\Windows 7\Desktop\C#\SistemaGestaoBiblioteca\SistemaGestaoBiblioteca\bin\Debug\net7.0\SistemaGestaoBiblioteca.dll
+C:\Users\Windows 7\Desktop\C#\SistemaGestaoBiblioteca\SistemaGestaoBiblioteca\bin\Debug\net7.0\SistemaGestaoBiblioteca.pdb
+C:\Users\Windows 7\Desktop\C#\SistemaGestaoBiblioteca\SistemaGestaoBiblioteca\obj\Debug\net7.0\SistemaGestaoBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 7\Desktop\C#\SistemaGestaoBiblioteca\SistemaGestaoBiblioteca\obj\Debug\net7.0\SistemaGestaoBiblioteca.AssemblyInfoInputs.cache
+C:\Users\Windows 7\Desktop\C#\SistemaGestaoBiblioteca\SistemaGestaoBiblioteca\obj\Debug\net7.0\SistemaGestaoBiblioteca.AssemblyInfo.cs
+C:\Users\Windows 7\Desktop\C#\SistemaGestaoBiblioteca\SistemaGestaoBiblioteca\obj\Debug\net7.0\SistemaGestaoBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Windows 7\Desktop\C#\SistemaGestaoBiblioteca\SistemaGestaoBiblioteca\obj\Debug\net7.0\SistemaGestaoBiblioteca.dll
+C:\Users\Windows 7\Desktop\C#\SistemaGestaoBiblioteca\SistemaGestaoBiblioteca\obj\Debug\net7.0\refint\SistemaGestaoBiblioteca.dll
+C:\Users\Windows 7\Desktop\C#\SistemaGestaoBiblioteca\SistemaGestaoBiblioteca\obj\Debug\net7.0\SistemaGestaoBiblioteca.pdb
+C:\Users\Windows 7\Desktop\C#\SistemaGestaoBiblioteca\SistemaGestaoBiblioteca\obj\Debug\net7.0\SistemaGestaoBiblioteca.genruntimeconfig.cache
+C:\Users\Windows 7\Desktop\C#\SistemaGestaoBiblioteca\SistemaGestaoBiblioteca\obj\Debug\net7.0\ref\SistemaGestaoBiblioteca.dll
